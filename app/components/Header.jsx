@@ -13,7 +13,7 @@ const Header = () => {
       >
         <Image
           src={assets.logo1}
-          alt=""
+          alt="Mihir Jain"
           className="rounded-full w-32 mt-32 sm:mt-0"
         />
       </motion.div>
