@@ -75,7 +75,7 @@ const LatestWork = () => {
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 1.1 }}
-        href="/Mihir.pdf"
+        href="/MIHIR.pdf"
         download
         className="w-max flex items-center justify-center gap-2 text-gray-700 border-[0.5px] border-gray-700 rounded-full px-10 py-3 mx-auto hover:bg-[#fcf4ff]"
       >
