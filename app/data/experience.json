@@ -1,0 +1,32 @@
+{
+  "homeCredit": {
+    "company": "Home Credit India Pvt Ltd",
+    "location": "Gurgaon, Haryana",
+    "role": "Intern (Android Developer)",
+    "duration": "Aug 2025 – Oct 2025",
+    "responsibilities": [
+      "Explored and understood Android development fundamentals before diving into advanced frameworks.",
+      "Created a Compose Multiplatform clone of an existing company Android app, extending support for both Android and iOS platforms.",
+      "Gained hands-on experience with modern Android architecture, state management, and multiplatform development workflows.",
+      "Explored and implemented Jetpack Compose Multiplatform (CMP) to build cross-platform applications for Android, iOS, Desktop, and Web using a shared Kotlin codebase."
+    ]
+  },
+  "bel": {
+    "company": "Bharat Electronics Limited",
+    "department": "Ministry of Defence, Government of India",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "role": "Trainee Engineer",
+    "duration": "Oct 2025 – Present",
+    "responsibilities": [
+      "Working in Radar SBU on Air Traffic Control (ATC) surveillance and display systems deployed at civil airports and defence operational sites.",
+      "Gaining hands-on exposure to radar surveillance systems, including ATC display subsystems integrated with SRE/ATC radars.",
+      "Involved in ATC display setup and configuration activities such as digital map generation, runway alignment, airspace visualization, and track monitoring.",
+      "Assisting senior engineers during installation, integration, configuration, and commissioning of radar-based ATC display systems.",
+      "Supporting system testing, verification, and initial troubleshooting to ensure reliable performance of mission-critical ATC systems.",
+      "Working with Linux-based systems and writing shell scripts to automate repetitive tasks, reducing manual intervention and improving operational efficiency.",
+      "Gaining exposure to radar hardware systems and understanding the interaction between hardware components, radar sensors, ATC display systems, and controller workstations.",
+      "Developing an understanding of real-time and safety-critical system behavior in aviation and defence environments.",
+      "Working within structured product assurance, quality validation, and technical documentation processes for safety-critical aviation systems."
+    ]
+  }
+}

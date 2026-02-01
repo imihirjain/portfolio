@@ -8,6 +8,7 @@ import LatestWork from "./components/LatestWork";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import Footer from "./components/Footer";
+import Experience from "./components/Experience";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Navbar />
       <Header />
       <About />
+      <Experience/>
       {/* <Services /> */}
       <LatestWork />
       <Contact />

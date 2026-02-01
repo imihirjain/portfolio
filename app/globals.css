@@ -8,7 +8,29 @@
 .font-ovo {
   font-family: 'Ovo', serif;
 }
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}
+.font-fira {
+  font-family: 'Fira Code', monospace;
+}
 
 .black{
   box-shadow: 4px 4px 0 #000;
 }
+
+::selection {
+  background-color: #fde68a; /* soft yellow */
+  color: #000000;
+}
+
+::selection {
+  background-color: #1f2937; /* gray-800 */
+  color: #f9fafb;
+}
+
+#experience ::selection {
+  background-color: #a855f7;
+  color: white;
+}
+  

@@ -26,7 +26,7 @@ const LatestWork = () => {
         transition={{ duration: 0.5, delay: 0.5 }}
         className="text-center text-5xl font-ovo"
       >
-        My latest work
+        My work
       </motion.h2>
       <motion.p
         initial={{ opacity: 0 }}

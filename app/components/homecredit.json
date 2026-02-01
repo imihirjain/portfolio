@@ -1,0 +1,14 @@
+{
+  "homeCredit": {
+    "company": "Home Credit India Pvt Ltd",
+    "location": "Gurgaon, Haryana",
+    "role": "Intern (Android Developer)",
+    "duration": "Aug 2025 – Oct 2025",
+    "responsibilities": [
+      "Explored and understood Android development fundamentals before diving into advanced frameworks.",
+      "Created a Compose Multiplatform clone of an existing company Android app, extending support for both Android and iOS platforms.",
+      "Gained hands-on experience with modern Android architecture, state management, and multiplatform development workflows.",
+      "Explored and implemented Jetpack Compose Multiplatform (CMP) to build cross-platform applications for Android, iOS, Desktop, and Web using a shared Kotlin codebase."
+    ]
+  }
+}
