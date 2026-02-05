@@ -56,6 +56,12 @@ const Navbar = () => {
               About me
             </a>{" "}
           </li>
+          <li>
+            {" "}
+            <a href="#experience" className="font-ovo">
+              Experience
+            </a>{" "}
+          </li>
 
           <li>
             {" "}
