@@ -114,6 +114,13 @@ const Navbar = () => {
 
           <li>
             {" "}
+            <a href="#experience" onClick={closeMenu} className="font-ovo">
+              Experience
+            </a>{" "}
+          </li>
+
+          <li>
+            {" "}
             <a href="#work" onClick={closeMenu} className="font-ovo">
               My Work
             </a>{" "}
