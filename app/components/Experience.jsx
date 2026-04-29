@@ -42,7 +42,6 @@ const Experience = () => {
       >
         <HomeCredit />
       </motion.div>
-      
     </motion.div>
   );
 };

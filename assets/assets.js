@@ -39,6 +39,8 @@ import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import bel from "./bel.png";
 import homecredit from "./homecredit.png";
+import SRE from "./SRE.jpg";
+import AMBER from "./AMBER.jpg";
 
 export const assets = {
   user_image,
@@ -81,7 +83,9 @@ export const assets = {
   right_arrow_bold,
   right_arrow_bold_dark,
   bel,
-  homecredit
+  homecredit,
+  SRE,
+  AMBER,
 };
 
 export const workData = [
